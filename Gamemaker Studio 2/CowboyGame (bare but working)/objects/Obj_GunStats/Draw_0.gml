@@ -1,0 +1,1 @@
+draw_text(x,y,"Cocked = "+string(objWeaponBase.cocked)+"\nLoaded Ammo = "+string(objWeaponBase.loadedAmmo)+"\nTotal Ammo = "+string(objWeaponBase.totalAmmo)+"\nMax Ammo = "+string(objWeaponBase.maxAmmo)+"\nState = "+string(objWeaponBase.state));
